@@ -1,0 +1,9 @@
+body{
+    background: url(tło.png);
+    background-size: 100%;
+}
+#caly{
+    align-items: center;
+    width: 970px;
+}
+
